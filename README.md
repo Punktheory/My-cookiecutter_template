@@ -1,5 +1,5 @@
 # My-cookiecutter_template
-Customize research project folder template edited from My-cookiecutter
+Customize research project folder template, Project Scaffolding Tools（项目脚手架工具）, made from cookiecutter
 
 ## 🚀 Quick Start
 ```bash
