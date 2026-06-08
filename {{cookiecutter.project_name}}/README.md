@@ -12,3 +12,4 @@
 - `scr/`: source code (as in your current layout)
 - `scripts/`: utility and pipeline scripts
 - `tests/`: test code
+- `.claude/`: settings used for claude code; adding customized research skill (https://github.com/Punktheory/research-idea-and-battle#) here
